@@ -15,4 +15,6 @@ class AddTodo extends Component
     {
         return view('livewire.add-todo');
     }
+
+    
 }

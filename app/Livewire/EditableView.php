@@ -1,5 +1,5 @@
 <?php
-// use app/Http/Livewire/EditableView.php
+
 namespace App\Http\Livewire;
 
 use Livewire\Component;
